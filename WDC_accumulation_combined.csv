@@ -1,6 +1,5 @@
-﻿50-year and 100-year average accumulation rates,,,,
-,,,,
-Age (years before 1950 on WD2014),Advection-correction accumulation rate (ice eq.),,Age (years before 1950 on WD2014),Advection-correction accumulation rate (ice eq.)
+﻿# 50-year and 100-year average accumulation rates
+# Age (years before 1950 on WD2014),Advection-correction accumulation rate (ice eq.),,Age (years before 1950 on WD2014),Advection-correction accumulation rate (ice eq.)
 0,0.211503041,,0,0.212373161
 50,0.221076083,,100,0.216189121
 100,0.211070791,,200,0.216628691
